@@ -1,0 +1,35 @@
+---
+interface list {
+    Title: String
+}
+
+const {Title} = Astro.props
+---
+
+<section class="list-words">
+    <h2 class="list-words-title">{Title}</h1>
+    <ul class="words">
+        <slot></slot>
+    </ul>
+</section>
+
+<style>
+    .list-words {
+        background: var(--color-2);
+        padding: 15px 20px;
+        border-radius: 15px;
+        width: 30%;
+    }
+    .list-words-title {
+        margin-bottom: 20px;
+    }
+    .words {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .list-words-title {
+        color: var(--color-4);
+    }
+</style>

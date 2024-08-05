@@ -1,0 +1,570 @@
+{
+    "ListOfWords": [
+        {
+            "topic": "Social Media",
+            "words": [
+                {
+                    "word": "API",
+                    "definition": "An acronym for Application Programming Interface",
+                    "pronuntation": "ˌeɪˌpiːˈaɪ"
+                },
+                {
+                    "word": "App",
+                    "definition": "An acronym for Application",
+                    "pronuntation": "æp"
+                },
+                {
+                    "word": "Avatar",
+                    "definition": "An image or a username that represents a person online",
+                    "pronuntation": "ˈævəˌtɑr"
+                },
+                {
+                    "word": "Badge",
+                    "definition": "An image, usually squared and displayed on a blog, which signifies the blogger’s participation in an event, contest, or social movement",
+                    "pronuntation": "bædʒ"
+                },
+                {
+                    "word": "Blog",
+                    "definition": "The word is created from 'web log', an online diary",
+                    "pronuntation": "blɔɡ"
+                },
+                {
+                    "word": "Blogosphere",
+                    "definition": "The blogosphere is made up of all blogs and their interconnections",
+                    "pronuntation": "ˈblɔɡəˌsfɪər"
+                },
+                {
+                    "word": "Chat",
+                    "definition": "Any kind of communication over the Internet, traditionally refers to one-to-one communication through a text-based chat application",
+                    "pronuntation": "tʃæt"
+                },
+                {
+                    "word": "Cloud Computing",
+                    "definition": "Computing in which services and storage are provided over the Internet",
+                    "pronuntation": "klaʊd kəmˈpjuːtɪŋ"
+                },
+                {
+                    "word": "Comment",
+                    "definition": "A response that is often provided as an answer of reaction to a blog post or message on a social network",
+                    "pronuntation": "ˈkɑːmɛnt"
+                },
+                {
+                    "word": "Communities",
+                    "definition": "Groups of people communicating mainly through the Internet",
+                    "pronuntation": "kəˈmjuːnɪtiz"
+                },
+                {
+                    "word": "Content",
+                    "definition": "Text, pictures, video, and any other definitionful material that is on the Internet",
+                    "pronuntation": "ˈkɑːntɛnt"
+                },
+                {
+                    "word": "Dashboard",
+                    "definition": "The administration area on your blog software that allows you to post, check traffic, upload files, manage comments, etc.",
+                    "pronuntation": "ˈdæʃˌbɔrd"
+                },
+                {
+                    "word": "Embedding",
+                    "definition": "The act of adding code to a website so that a video or photo can be displayed while it’s being hosted at another site",
+                    "pronuntation": "ɪmˈbɛdɪŋ"
+                },
+                {
+                    "word": "Feed",
+                    "definition": "Content served at regular intervals e.g. the latest articles from a blog or social actions by your friends",
+                    "pronuntation": "fid"
+                },
+                {
+                    "word": "Forum",
+                    "definition": "An online discussion site",
+                    "pronuntation": "ˈfɔrəm"
+                }
+            ]
+        },
+
+        {
+            "topic":"Photos SoftWare",
+            "words": [
+                {
+                    "word": "Adobe Lightroom",
+                    "definition": "A popular post-processing software used by photographers to edit and enhance photos, offering tools for color correction, exposure adjustments, and more.",
+                    "pronuntation": "uh-DOH-bee LYTE-room"
+                },
+                {
+                    "word": "Aperture",
+                    "definition": "Aperture controls the size of the lens opening, affecting the amount of light that enters the camera and the depth of field.",
+                    "pronuntation": "AP-er-cher"
+                },
+                {
+                    "word": "Aspect Ratio",
+                    "definition": "The proportional relationship between the width and height of an image, often adjusted during post-processing to suit specific output or display requirements.",
+                    "pronuntation": "AS-pekt RAY-shee-oh"
+                },
+                {
+                    "word": "Bracketing",
+                    "definition": "Bracketing involves taking multiple shots of the same scene at different exposures, typically with variations in shutter speed.",
+                    "pronuntation": "BRAK-it-ing"
+                },
+                {
+                    "word": "Chromatic Aberration Correction",
+                    "definition": "The process of rectifying color fringing and distortions that occur at the edges of objects in an image due to lens imperfections.",
+                    "pronuntation": "kroh-MAT-ik ab-uh-RAY-shun kuh-REK-shun"
+                },
+                {
+                    "word": "Clipping (Shadows/Highlights)",
+                    "definition": "The loss of detail in the darkest shadows or brightest highlights of an image, which can be corrected in post-processing.",
+                    "pronuntation": "KLIP-ing (SHAD-ohz/HY-lyts)"
+                },
+                {
+                    "word": "Cloning",
+                    "definition": "The process of removing or duplicating specific areas of an image during post-processing, often used for retouching or removing unwanted elements.",
+                    "pronuntation": "KLOH-ning"
+                },
+                {
+                    "word": "Composition",
+                    "definition": "Composition in landscape photography refers to the arrangement of elements within the frame to create a visually pleasing and balanced image.",
+                    "pronuntation": "kom-puh-ZISH-un"
+                },
+                {
+                    "word": "Contrast",
+                    "definition": "The difference between the darkest and lightest parts of an image, adjustable in post-processing to enhance or reduce image dynamics.",
+                    "pronuntation": "KON-trast"
+                },
+                {
+                    "word": "Cropping",
+                    "definition": "The act of trimming or cutting parts of an image to improve composition or remove distractions.",
+                    "pronuntation": "KROP-ing"
+                },
+                {
+                    "word": "Desaturation",
+                    "definition": "A post-processing technique that reduces the saturation of colors in an image, often used to create a subtle or monochromatic effect.",
+                    "pronuntation": "dee-SAT-yoo-RAY-shun"
+                },
+                {
+                    "word": "Dodge and Burn",
+                    "definition": "Techniques used in post-processing to selectively lighten and darken specific areas of an image for better tonal control.",
+                    "pronuntation": "DOJ and BURN"
+                },
+                {
+                    "word": "Filters",
+                    "definition": "Digital filters applied during post-processing to achieve various effects, such as adding warmth, simulating film looks, or creating vignettes.",
+                    "pronuntation": "FIL-terz"
+                },
+                {
+                    "word": "Focus Stacking",
+                    "definition": "A post-processing technique that combines multiple images focused on different parts of a scene to achieve greater depth of field and sharpness.",
+                    "pronuntation": "FOH-kus STAK-ing"
+                },
+                {
+                    "word": "Frequency Separation",
+                    "definition": "A post-processing technique that separates an image into different layers for working on texture and color separately, commonly used in portrait and landscape retouching.",
+                    "pronuntation": "FREE-kwen-see sep-uh-RAY-shun"
+                }
+            ]
+        },
+
+        {
+            "topic": "Website",
+            "words": [
+                {
+                    "word": "Accessibility",
+                    "definition": "Relates to web design/coding standards and refers to how easy it is for everyone to use your website, including people who are visually impaired or in any way physically handicapped, or limited by older or less common computers and software.",
+                    "pronuntation": "ækˌsɛsɪˈbɪlɪti"
+                  },
+                  {
+                    "word": "Address Bar",
+                    "definition": "The white bar towards the top of your computer screen where you type in the address of a website that you want to visit.",
+                    "pronuntation": "əˈdrɛs bɑːr"
+                  },
+                  {
+                    "word": "Anchor Text",
+                    "definition": "The text a link (hyperlink) uses to refer to your web page, which can impact search engine results.",
+                    "pronuntation": "ˈæŋkər tɛkst"
+                  },
+                  {
+                    "word": "Backlinks",
+                    "definition": "Links from other website pages to yours, used to increase a site's popularity with search engines and to get more people to visit your site.",
+                    "pronuntation": "ˈbæklɪŋks"
+                  },
+                  {
+                    "word": "Bandwidth",
+                    "definition": "Relates to how much a resource is used, analogous to the width of a freeway affecting how much traffic it can handle.",
+                    "pronuntation": "ˈbændwɪdθ"
+                  },
+                  {
+                    "word": "Beta",
+                    "definition": "A word used for software that is in a 'live' testing phase where people can use it but may expect some hiccups.",
+                    "pronuntation": "ˈbeɪtə"
+                  },
+                  {
+                    "word": "Blog",
+                    "definition": "An online journal or diary and a popular method of sharing thoughts with the world, also used as a marketing tool.",
+                    "pronuntation": "blɔg"
+                  },
+                  {
+                    "word": "Bounce",
+                    "definition": "When an email is sent to someone and it comes straight back with an error message, indicating a delivery issue.",
+                    "pronuntation": "baʊns"
+                  },
+                  {
+                    "word": "Bounce Rate",
+                    "definition": "The percentage of people who leave a website from the same page they entered without clicking through to any other pages.",
+                    "pronuntation": "baʊns reɪt"
+                  },
+                  {
+                    "word": "Branding",
+                    "definition": "The process involved in creating a unique name and image for a product in the consumers' mind.",
+                    "pronuntation": "ˈbrændɪŋ"
+                  },
+                  {
+                    "word": "Browser",
+                    "definition": "A software application used to access information on the World Wide Web.",
+                    "pronuntation": "ˈbraʊzər"
+                  },
+                  {
+                    "word": "Cache",
+                    "definition": "A collection of data duplicating original values stored elsewhere on a computer, used to speed up access.",
+                    "pronuntation": "kæʃ"
+                  },
+                  {
+                    "word": "Call to Action",
+                    "definition": "A prompt on a website that tells the user to take some specified action.",
+                    "pronuntation": "kɔːl tuː ˈækʃən"
+                  },
+                  {
+                    "word": "CMS",
+                    "definition": "Content Management System, a software application used to create, manage, and modify digital content.",
+                    "pronuntation": "siː ɛm ɛs"
+                  },
+                  {
+                    "word": "Code",
+                    "definition": "Instructions written in a programming language to be executed by a computer.",
+                    "pronuntation": "koʊd"
+                  }
+            ]
+        },
+        
+        {
+            "topic": "Game Development",
+            "words": [
+                {
+                    "word": "abstract game",
+                    "definition": "An abstract game has rules, but no fictional world. Many traditional non-electronic games are abstract, but very few video games are abstract.",
+                    "pronuntation": "/ˈæb.strækt ɡeɪm/"
+                  },
+                  {
+                    "word": "abstracting",
+                    "definition": "Arbitrarily simplifying a virtual element that represents anything concrete from real life. Anything short of a 100% functional recreation of a real-life element means there is some part of the representation that is missing or simplified.",
+                    "pronuntation": "/ˈæb.stræktɪŋ/"
+                  },
+                  {
+                    "word": "abstract key",
+                    "definition": "These keys have no spatial definition or physicality within the game world. These keys are usually an item that is merely indicated in your inventory.",
+                    "pronuntation": "/ˈæb.strækt kiː/"
+                  },
+                  {
+                    "word": "abstract mechanic",
+                    "definition": "A mechanic that has no spatially defined effect on other spatially defined gameplay elements. Also a mechanic that is not consistent with the established style or fiction of the game.",
+                    "pronuntation": "/ˈæb.strækt məˈkænɪk/"
+                  },
+                  {
+                    "word": "accel",
+                    "definition": "Short for acceleration. The ability to execute static or complex timings through a steady increase of tempo.",
+                    "pronuntation": "/ækˈsɛl/"
+                  },
+                  {
+                    "word": "accordion level design",
+                    "definition": "Folded level design that folds back and forth at multiple creases that creates some kind of pattern.",
+                    "pronuntation": "/əˈkɔːr.di.ən ˈlɛv.əl dɪˈzaɪn/"
+                  },
+                  {
+                    "word": "accuracy",
+                    "definition": "Input device wordinology. The degree of closeness of an outcome to the declared target.",
+                    "pronuntation": "/ˈæk.jə.rə.si/"
+                  },
+                  {
+                    "word": "action frequency",
+                    "definition": "The rate the player inputs mechanics to real time. A high action frequency occurs when the speed of input exceeds one’s ability to process the actions and reactions consciously.",
+                    "pronuntation": "/ˈæk.ʃən ˈfriː.kwən.si/"
+                  },
+                  {
+                    "word": "adaptation",
+                    "definition": "The process of adjusting gameplay strategies to better fit new or evolving circumstances within the game.",
+                    "pronuntation": "/ˌæd.æpˈteɪ.ʃən/"
+                  },
+                  {
+                    "word": "adjacent possible",
+                    "definition": "The set of all possible actions or strategies that can be executed given the current state and rules of the game.",
+                    "pronuntation": "/əˈdʒeɪ.sənt ˈpɒs.ə.bəl/"
+                  },
+                  {
+                    "word": "advanced technique",
+                    "definition": "A complex or nuanced gameplay strategy or mechanic that typically requires a high level of skill and understanding to execute effectively.",
+                    "pronuntation": "/ədˈvɑːnst tɛkˈniːk/"
+                  },
+                  {
+                    "word": "adventuring",
+                    "definition": "Engaging in exploratory or quest-like activities within a game, often involving challenges and the acquisition of rewards.",
+                    "pronuntation": "/ədˈvɛn.tʃərɪŋ/"
+                  },
+                  {
+                    "word": "agency",
+                    "definition": "The player's capacity to act independently and make their own choices within the game environment.",
+                    "pronuntation": "/ˈeɪ.dʒən.si/"
+                  },
+                  {
+                    "word": "aggressive playstyle",
+                    "definition": "A manner of playing a game that emphasizes offensive actions, high risk-taking, and a proactive approach to challenges.",
+                    "pronuntation": "/əˈɡrɛsɪv pleɪ staɪl/"
+                  },
+                  {
+                    "word": "alternate path",
+                    "definition": "A secondary or non-main route in a game level that offers different challenges and rewards compared to the primary path.",
+                    "pronuntation": "/ˈɔːl.tər.nət pɑːθ/"
+                  }
+            ]
+        },
+
+        {
+            "topic": "App Development",
+            "words": [
+                {
+                    "word": "Agile",
+                    "definition": "A development methodology known for prioritizing iteration and flexibility, breaking down work milestones into collaborative development ‘sprints’.",
+                    "pronuntation": "AJ-uhl"
+                },
+                {
+                    "word": "API",
+                    "definition": "Stands for Application Programming Interface — operates as a middleman between two applications, allowing them to work together and functionally integrate.",
+                    "pronuntation": "AY-pee-EYE"
+                },
+                {
+                    "word": "APK",
+                    "definition": "Stands for Android Package Kit — the type of file used for applications' code on Android operating systems. APK files function within the Android Studio IDE.",
+                    "pronuntation": "AY-pee-KAY"
+                },
+                {
+                    "word": "App Store",
+                    "definition": "A marketplace for applications that can be accessed on smartphones and web browsers — typically refers to either the Apple App Store or the Google Play store.",
+                    "pronuntation": "APP stohr"
+                },
+                {
+                    "word": "Beta Testing",
+                    "definition": "A pre-release version of an app that is made available to a select group of users to test. This phase of testing helps software development companies find bugs or inefficiencies before the final version of the app goes to market.",
+                    "pronuntation": "BAY-tuh TES-ting"
+                },
+                {
+                    "word": "Backend",
+                    "definition": "The server side of an application that handles data storage, processing, and retrieval.",
+                    "pronuntation": "BAK-end"
+                },
+                {
+                    "word": "Bug",
+                    "definition": "An error or flaw in an app that causes malfunctions or undesired results.",
+                    "pronuntation": "BUHG"
+                },
+                {
+                    "word": "Cache",
+                    "definition": "A temporary storage location for frequently accessed data that speeds up an app's performance.",
+                    "pronuntation": "KASH"
+                },
+                {
+                    "word": "CDN",
+                    "definition": "Stands for Content Delivery Network — a network of servers designed to reduce the time needed to access content by caching content in servers close to where the information is being accessed.",
+                    "pronuntation": "SEE-dee-EN"
+                },
+                {
+                    "word": "Code Review",
+                    "definition": "The process of reviewing and critiquing an app's code for errors and potential improvements — part of the QA process.",
+                    "pronuntation": "KOHD ri-VYOO"
+                },
+                {
+                    "word": "Content Management System (CMS)",
+                    "definition": "A type of application that allows multiple users to create, edit, publish, and manage written and visual content on a website.",
+                    "pronuntation": "KON-tent MAN-ij-munt SIS-tum"
+                },
+                {
+                    "word": "Cross-Platform App",
+                    "definition": "An app that can run on multiple platforms, such as Android and iOS. This makes applications accessible to Mac and Microsoft-loyal buyers alike.",
+                    "pronuntation": "KRAWS-PLAT-form APP"
+                },
+                {
+                    "word": "Database",
+                    "definition": "A structured collection of data that users can analyze, manipulate, and access through an application or platform.",
+                    "pronuntation": "DAY-tuh-bays"
+                },
+                {
+                    "word": "Debugging",
+                    "definition": "The process of identifying and fixing bugs in an app's code, often carried out by development teams or QA specialists.",
+                    "pronuntation": "dee-BUG-ing"
+                },
+                {
+                    "word": "Deployment",
+                    "definition": "The process of releasing an app or new features to users. Deployment plans account for executing changes in live environments as well, for apps that have already been released.",
+                    "pronuntation": "di-PLOY-munt"
+                }
+            ]
+        },
+
+        {
+            "topic": "Operating System",
+            "words": [
+                {
+                    "word": "example",
+                    "definition": "a representative form or pattern",
+                    "pronuntation": "ɪɡˈzæmpəl"
+                  },
+                  {
+                    "word": "definition",
+                    "definition": "a statement expressing the essential nature of something",
+                    "pronuntation": "ˌdɛfəˈnɪʃən"
+                  },
+                  {
+                    "word": "context",
+                    "definition": "the circumstances in which an event occurs",
+                    "pronuntation": "ˈkɒntɛkst"
+                  },
+                  {
+                    "word": "glossary",
+                    "definition": "a list of words in a particular domain of knowledge with definitions",
+                    "pronuntation": "ˈɡlɒsəri"
+                  },
+                  {
+                    "word": "pronuntation",
+                    "definition": "the way in which a word is pronounced",
+                    "pronuntation": "prəˌnʌnsiˈeɪʃən"
+                  },
+                  {
+                    "word": "pronuntation",
+                    "definition": "relating to the sounds of speech",
+                    "pronuntation": "fəˈnɛtɪk"
+                  },
+                  {
+                    "word": "syntax",
+                    "definition": "the arrangement of words and phrases to create well-formed sentences",
+                    "pronuntation": "ˈsɪntæks"
+                  },
+                  {
+                    "word": "semantics",
+                    "definition": "the definition of a word, phrase, sentence, or text",
+                    "pronuntation": "sɪˈmæntɪks"
+                  },
+                  {
+                    "word": "morphology",
+                    "definition": "the study of the form of words",
+                    "pronuntation": "mɔrˈfɒlədʒi"
+                  },
+                  {
+                    "word": "lexicon",
+                    "definition": "the vocabulary of a person, language, or branch of knowledge",
+                    "pronuntation": "ˈlɛksɪkən"
+                  },
+                  {
+                    "word": "etymology",
+                    "definition": "the study of the origin of words",
+                    "pronuntation": "ˌɛtəˈmɑlədʒi"
+                  },
+                  {
+                    "word": "syntax",
+                    "definition": "the rules for the formation of grammatical sentences",
+                    "pronuntation": "ˈsɪntæks"
+                  },
+                  {
+                    "word": "dialect",
+                    "definition": "a particular form of a language specific to a region or social group",
+                    "pronuntation": "ˈdaɪəˌlɛkt"
+                  },
+                  {
+                    "word": "orthography",
+                    "definition": "the conventional spelling system of a language",
+                    "pronuntation": "ɔrˈθɑɡrəfi"
+                  },
+                  {
+                    "word": "phraseology",
+                    "definition": "the way in which something is expressed",
+                    "pronuntation": "ˌfreɪziˈɑlədʒi"
+                  }
+            ]
+        },
+
+        {
+            "topic": "Cyber Security",
+            "words": [
+                {
+                    "word": "Access",
+                    "pronuntation": "ˈækˌsɛs",
+                    "definition": "Ability to make use of any information system (IS) resource."
+                  },
+                  {
+                    "word": "Access Control",
+                    "pronuntation": "ˈækˌsɛs kənˈtroʊl",
+                    "definition": "The process of granting or denying specific requests to obtain and use information and related information processing services."
+                  },
+                  {
+                    "word": "Access Control Mechanism",
+                    "pronuntation": "ˈækˌsɛs kənˈtroʊl ˈmɛkənɪzəm",
+                    "definition": "Security safeguards designed to detect and deny unauthorized access and permit authorized access to an information system."
+                  },
+                  {
+                    "word": "Advanced Persistent Threat",
+                    "pronuntation": "ədˈvænst pərˈsɪstənt θrɛt",
+                    "definition": "An adversary that possesses sophisticated levels of expertise and significant resources to create opportunities to achieve its objectives."
+                  },
+                  {
+                    "word": "Adversary",
+                    "pronuntation": "ˈædvərˌsɛri",
+                    "definition": "Individual, group, organization, or government that conducts or has the intent to conduct detrimental activities."
+                  },
+                  {
+                    "word": "Air Gap",
+                    "pronuntation": "ɛr gæp",
+                    "definition": "An interface between two systems where they are not connected physically and any logical connection is not automated."
+                  },
+                  {
+                    "word": "Alert",
+                    "pronuntation": "əˈlɜrt",
+                    "definition": "Notification that a specific attack has been directed at an organization's information systems."
+                  },
+                  {
+                    "word": "Antivirus Software",
+                    "pronuntation": "ˌæntiˈvaɪrəs ˈsɒftˌwɛr",
+                    "definition": "A program that monitors a computer or network to identify all major types of malware and prevent or contain malware incidents."
+                  },
+                  {
+                    "word": "Asset",
+                    "pronuntation": "ˈæˌsɛt",
+                    "definition": "A major application, general support system, high impact program, physical plant, mission critical system, personnel, equipment, or a logically related group of systems."
+                  },
+                  {
+                    "word": "Attack",
+                    "pronuntation": "əˈtæk",
+                    "definition": "An attempt to gain unauthorized access to system services, resources, or information, or an attempt to compromise system integrity, availability, or confidentiality."
+                  },
+                  {
+                    "word": "Attack Signature",
+                    "pronuntation": "əˈtæk ˈsɪgnətʃər",
+                    "definition": "A specific sequence of events indicative of an unauthorized access attempt."
+                  },
+                  {
+                    "word": "Authentication",
+                    "pronuntation": "ɔˌθɛntɪˈkeɪʃən",
+                    "definition": "The process of verifying the identity or other attributes of an entity."
+                  },
+                  {
+                    "word": "Authorization",
+                    "pronuntation": "ˌɔθərɪˈzeɪʃən",
+                    "definition": "The process of granting access privileges or other rights to a user, program, or process."
+                  },
+                  {
+                    "word": "Backdoor",
+                    "pronuntation": "ˈbækˌdɔr",
+                    "definition": "A hidden entry point into a program or system that bypasses normal security measures."
+                  },
+                  {
+                    "word": "Botnet",
+                    "pronuntation": "ˈbɑtˌnɛt",
+                    "definition": "A network of compromised computers controlled remotely by an attacker to perform malicious activities."
+                  }
+            ]
+        }
+    ]
+}
