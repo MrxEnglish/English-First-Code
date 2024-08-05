@@ -1,0 +1,75 @@
+---
+const {word, definition, pronuntation} = Astro.props
+---
+
+<div class="conatiner-word" data-word={word}>
+    <strong class="word-term">{word} 
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M6 9l6 6l6 -6" />
+      </svg>
+    </strong>
+    <div class="details-words" data-word={word}>
+        <small class="pronuntacion-word">{pronuntation}</small>
+        <p class="definition">
+            {definition}
+        </p>
+    </div>
+</div>
+
+<style>
+    .conatiner-word {
+        padding: 10px 20px;
+        background: #FBF9F1;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+
+    .word-term {
+        font-size: 20px;
+        color: var(--color-4);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        svg {
+            width: 40px;
+        }
+    }
+
+    .details-words {
+        height: 0;
+        overflow: hidden;
+        padding: 5px;
+        transition: height .3s ease-in-out;
+    }
+
+    .details-words.open {
+        height: 200px;
+        overflow: visible;
+    }
+
+    .pronuntacion-word {
+        display: inline-block;
+        font-size: 14px;
+        color: var(--color-4);
+        margin-bottom: 10px;
+    }
+    
+</style>
+
+<script>
+    const details = document.querySelectorAll('.details-words')
+    const containerWord = document.querySelectorAll('.conatiner-word')
+
+    containerWord.forEach(container => {
+        container.addEventListener('click',()=> {
+            details.forEach(datail => {
+                const {height} = datail.style
+            if(container.dataset.word === datail.dataset.word) {
+                datail.style.height = height <= 0 ? `${datail.scrollHeight}px` : 0
+            }
+        })
+        })
+    }
+    )
+</script>

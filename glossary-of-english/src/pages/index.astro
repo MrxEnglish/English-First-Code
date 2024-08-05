@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ListOfWord from '../data/words.json';
+import ListOfWords from '../components/ListOfWords.astro';
+// Supports weights 300-800
+import '@fontsource-variable/open-sans';
+import Word from '../components/Word.astro';
+const lits = ListOfWord.ListOfWords
+---
+
+<Layout title="Glossary of english">
+	<main>
+		{
+			lits.map(item => {
+				return (
+				<ListOfWords Title={item.topic}>
+					{
+						item.words.map(word => {
+							return <Word word={word.word} pronuntation={word.pronuntation} definition={word.definition}/>
+						})
+					}
+				</ListOfWords>
+				)	
+			})
+		}
+	</main>
+</Layout>
+
+<style>
+	body {
+		background: var(--color-1);
+		min-height: 100vh;
+		font-family: 'Open Sans Variable', sans-serif;
+	}
+
+	main {
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+		gap: 20px;
+		padding: 25px;
+	}
+</style>
